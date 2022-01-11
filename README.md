@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Chaitra AC</h1>
-<h3 align="center">A passionate java developer☺ ,🔭currently pursuing B.tech in Computer Science at REVA University🎓</h3>
+<h3 align="center"> Java Enthusiast ☺ ,🔭currently pursuing B.tech in Computer Science at REVA University🎓</h3>
 
 <img align="right" alt="coding" width="400"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
