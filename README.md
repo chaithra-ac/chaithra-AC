@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms in java**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16t93MKwMQKPAxAlfIDccztO4BHOISCJG/view?usp=sharing](https://drive.google.com/file/d/16t93MKwMQKPAxAlfIDccztO4BHOISCJG/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/16t93MKwMQKPAxAlfIDccztO4BHOISCJG/view?usp=sharing](https://drive.google.com/file/d/16t93MKwMQKPAxAlfIDccztO4BHOISCJG/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
